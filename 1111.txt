@@ -1,0 +1,103 @@
+
+亀戸レジデンス  4880 10/ 12
+
+"C:\Program Files\UiPath Studio\UiRobot.exe"
+
+/file:"C:\Users\502716926\Desktop\?目\FaxPro\FaxPro.xaml" /monitored
+
+(From row In AccTable.Select() Group row By 前契約NO = row("前契約NO").ToString, 前物件NO = row("前物件NO").ToString Into Group Select Group(0)).ToArray.CopyToDataTable() 
+
+https://ito.i.smflc.co.jp/IIPITO/login.seam 
+
+smflc@5234
+
+ROBOT01
+DIGI001@
+CALL OA110M
+
+3001
+Conference Code
+1195391975 
+
+general
+wengao.lu
+smflc233
+
+司法局
+luwengao
+5418025!Qq
+	20190228031556001
+
+http://hongguan.pvj.jp
+
+default
+Wengao.Lu@smflc.co.jp
+5418025a
+78351
+
+
+802659
+microsoft.VisualBasic.Format(Now,"yyyyMMdd")
+
+C:\Program Files\IBM\Client Access\Emulator\pcshll32.dll
+
+15930
+15969
+
+ユーザ名：36290
+Passwordなし
+M82187
+
+E16PG881
+
+adm-A502702724
+Jpjp123jp
+
+A502716926
+a5418025a
+CALL OA110M
+
+
+96997	ｿML70266
+96997	ｿML70632
+
+
+YU9y%%m8
+
+顔ナビ
+service.kaonavi.jp
+wengao.lu@pactera.com
+5418025a
+
+Asdqwe123
+
+A321001219
+sasa18ki
+
+git
+wengaolu
+5418025a
+
+
+TCICSEJ
+502716926
+q5418025q
+Z5427
+Z5187
+
+386767516356702043
+D911
+F402
+
+ 
+https://id.obc.jp/lqtte1vwcus4/
+gongzi 
+P0096471
+5418025Qq
+
+\\TYOFIL003
+Smlc01\w342063
+
+
+7043001
+Kokohore11
